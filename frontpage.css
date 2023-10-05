@@ -1,0 +1,145 @@
+nav .toggle {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: white;
+    text-align: right;
+    box-sizing: border-box;
+    font-size: 30px;
+    display: none;
+  }
+
+  nav .join {
+    background-color: #E1F0E0;
+    border: 2px solid #C0EEBD;
+    padding: 8px 24px;
+    margin: 0 11px 0 80%;
+    display: inline-block;
+    border-radius: 9px;
+
+  }
+
+
+  nav .join a {
+    /* color: #52A350; */
+    text-decoration: none;
+    font-size: 16px;
+    box-sizing: border-box;
+    line-height: 24px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .text1 {
+    width: 550px;
+    font-weight: 800;
+    font-size: 51px;
+    color: #52A350;
+    margin-bottom: 15px;
+    line-height: 60px;
+    font-family: "GD boing", sans-serif;
+  }
+
+  .text4 {
+    font-size: 14px;
+    color: #08386D;
+    letter-spacing: 1px;
+    line-height: 23px;
+    margin-bottom: 20px;
+  }
+
+  form p {
+    background-color: white;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: -16px;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 7px;
+    font-family: 'Nunito', sans-serif;
+  }
+
+  form p.ptag {
+    color: #52a350;
+  }
+
+  form input.user {
+    display: block;
+    width: 100%;
+    padding: 17px 10px;
+    font-size: 1rem;
+    border: 1px solid #52a350;
+    color: #52a350;
+    border-radius: 15px;
+    background-clip: padding-box;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+
+  form .userlogin {
+    width: 100%;
+    padding: 17px 10px;
+    font-size: 20px;
+    border: 1px solid #52a350;
+    color: white;
+    background-color: #52a350;
+    border-radius: 15px;
+    text-align: center;
+  }
+
+  .text2 {
+    text-align: center;
+    width: 423.222px
+  }
+
+  .forget {
+    color: #858585;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 30px;
+  }
+
+  .text2 h5 {
+    color: #808080;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+
+  .enter {
+    color: #52a350;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .join {
+    color: #52A350;
+    text-decoration: none;
+    font-size: 16px;
+    box-sizing: border-box;
+    line-height: 24px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .navbar-toggler {
+  border: none !important;
+  background: none !important;
+}
+.joinBtn {
+  padding: 8px 24px 8px 24px !important;
+  border: 2px solid #c0eebd !important;
+  border-radius: 9px !important;
+  font-size: 16px !important;
+  background-color: #e1f0e0 !important;
+  color: #52a350 !important;
+  font-weight: 500 !important;
+  margin-right: 110px;
+  font-family: 'Nunito',
+      sans-serif;
+}
+
+.navbar {
+  height: 92px;
+}

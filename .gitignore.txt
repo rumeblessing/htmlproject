@@ -1,0 +1,3 @@
+#ignore all index.html and style1.css files
+* index 
+* style1 
